@@ -1,5 +1,3 @@
-# Note: 
-	The performance evualtion for this project is been done on other pc then mine because of hardware shortage. 
 # Simpelperf
 
 **About The Project**
