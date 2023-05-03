@@ -23,10 +23,8 @@ To run the server, use the following command on your terminal:
 The code has two modes: server mode and client mode.
 
 You can run the code in server mode by following this command.
-# Note
-python3 simpleperf.py -s [-b BIND_ADDRESS] [-p PORT] [-f {Bytes,KB,MB,GB}]
+    python3 simpleperf.py -s [-b BIND_ADDRESS] [-p PORT] [-f {Bytes,KB,MB,GB}]
 
 You can also run the code in client mode to send data to the server:
-# Note
-python3 simpleperf -c -I [server_ip] -p [server_port] -t [time]
+    python3 simpleperf -c -I [server_ip] -p [server_port] -t [time]
 
