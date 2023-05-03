@@ -22,9 +22,9 @@ This code requires Python 3.6 or later version. It also requires the following m
 To run the server, use the following command on your terminal:
 The code has two modes: server mode and client mode.
 
-You can run the code in server mode by following this command.
+You can run the code in server mode by following this command. \br
     python3 simpleperf.py -s [-b BIND_ADDRESS] [-p PORT] [-f {Bytes,KB,MB,GB}]
 
-You can also run the code in client mode to send data to the server:
+You can also run the code in client mode to send data to the server:\br
     python3 simpleperf -c -I [server_ip] -p [server_port] -t [time]
 
